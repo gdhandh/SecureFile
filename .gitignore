@@ -1,0 +1,6 @@
+node_modules
+out
+*.txt
+*.txt.*
+.env
+.DS_Store

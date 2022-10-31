@@ -1,0 +1,16 @@
+{
+	"name": "file-encryption",
+	"version": "1.0.0",
+	"description": "encrypt and decrypt file, ussually used for data protection",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"keywords": [],
+	"author": "Faidil <faidilfamozzy@gmail.com>",
+	"license": "ISC",
+	"dependencies": {
+		"crypto-js": "^4.1.1",
+		"dotenv": "^16.0.1"
+	}
+}
