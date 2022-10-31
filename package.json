@@ -7,7 +7,6 @@
 		"start": "node src/index.js"
 	},
 	"keywords": [],
-	"author": "Faidil <faidilfamozzy@gmail.com>",
 	"license": "ISC",
 	"dependencies": {
 		"crypto-js": "^4.1.1",
