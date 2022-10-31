@@ -34,3 +34,7 @@ npm start enc <file> <secretKey:optional>
 ```bash
 npm start dec <file> <secretKey:optional>
 ```
+Image:
+![image](https://user-images.githubusercontent.com/92927610/198975104-456e27da-8d96-480d-94c8-a666a4930327.png)
+
+![image](https://user-images.githubusercontent.com/92927610/198975034-1f8f6701-6c84-42ac-b2c9-c9e68da3577f.png)
